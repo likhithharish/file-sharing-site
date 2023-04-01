@@ -1,7 +1,11 @@
-Create a .env file and place the below values :
-PORT={ANY OPEN PORT}
-DB_USERNAME={MONGODB ATLAS USERNAME}
-DB_PASSWORD={MONGODB ATLAS PWD}
+<h1>Create a .env file and place the below values :</h1>
+<ul>
+<li>PORT={ANY OPEN PORT}</li>
+<li>DB_USERNAME={MONGODB ATLAS USERNAME}</li>
+<li>DB_PASSWORD={MONGODB ATLAS PWD}</li>
+</ul>
+
+<hr>
 
 #See last on how to set username and password.
 
