@@ -18,14 +18,15 @@
 </ul>
 <hr>
 
-Open terminak to 'client' folder :</h1>
+<h1>Open terminak to 'client' folder :</h1>
 <ul>
   <li>Run 'npm install'</li>
   <li>Run 'npm start'</li>
     <li>Frontend should be up and Running</li>
 </ul>
+<hr>
 
-Setting MongoDB :
+<h1>Setting MongoDB : (A dummy working username and password were set which will get deleted in one week)</h1>
 <ul>
   <li>Once account is created, select free plan.</li>
   <li>Create username and password ( save this to paste inside .env file).</li>
